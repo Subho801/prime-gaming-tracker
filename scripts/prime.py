@@ -68,7 +68,7 @@ with sync_playwright() as p:
             title,
             platform,
             leaving,
-            image: (img.src || "").replace("banner145.jpg", "banner300.jpg")
+            image: (img.src || "").replace("banner145.jpg", "banner600.jpg")
           });
         }
       }
