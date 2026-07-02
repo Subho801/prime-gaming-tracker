@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-02T13:25:44.171520+00:00",
-  "count": 20,
+  "updatedAt": "2026-07-02T19:05:55.871919+00:00",
+  "count": 23,
   "items": [
     {
       "title": "A Rat's Quest - The Way Back Home",
@@ -21,6 +21,15 @@
       "source": "IsThereAnyDeal"
     },
     {
+      "title": "CyClones",
+      "platform": "GOG",
+      "status": "claimable",
+      "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
+      "image": "https://assets.isthereanydeal.com/018d937f-6fbd-718b-b101-ea26b977017f/banner600.jpg?t=1760117129",
+      "leaving": "01 Aug 2026",
+      "source": "IsThereAnyDeal"
+    },
+    {
       "title": "GI Joe: Wrath of Cobra",
       "platform": "Epic",
       "status": "claimable",
@@ -36,6 +45,15 @@
       "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
       "image": "https://assets.isthereanydeal.com/018d937f-7845-702a-8303-83bb5b1dd2c3/banner600.jpg?t=1778160304",
       "leaving": "12 Aug 2026",
+      "source": "IsThereAnyDeal"
+    },
+    {
+      "title": "LONESTAR",
+      "platform": "Epic",
+      "status": "claimable",
+      "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
+      "image": "https://assets.isthereanydeal.com/018d97b6-9d45-701d-a6ee-4c80ca978463/banner600.jpg?t=1776410431",
+      "leaving": "05 Aug 2026",
       "source": "IsThereAnyDeal"
     },
     {
@@ -135,6 +153,15 @@
       "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
       "image": "https://assets.isthereanydeal.com/018d937f-6cd9-70f2-a7cc-9322a87442f3/banner600.jpg?t=1778516422",
       "leaving": "15 Jul 2026",
+      "source": "IsThereAnyDeal"
+    },
+    {
+      "title": "Symphony of War: The Nephilim Saga",
+      "platform": "Epic",
+      "status": "claimable",
+      "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
+      "image": "https://assets.isthereanydeal.com/018d937f-5c5a-70b4-a775-aeffcf2162fc/banner600.jpg?t=1769653510",
+      "leaving": "05 Aug 2026",
       "source": "IsThereAnyDeal"
     },
     {
