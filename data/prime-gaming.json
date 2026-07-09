@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-09T14:25:18.744204+00:00",
-  "count": 21,
+  "updatedAt": "2026-07-09T19:18:12.308424+00:00",
+  "count": 23,
   "items": [
     {
       "title": "Between Time: Escape Room",
@@ -75,6 +75,15 @@
       "source": "IsThereAnyDeal"
     },
     {
+      "title": "Regular Factory: Escape Room",
+      "platform": "GOG",
+      "status": "claimable",
+      "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
+      "image": "https://assets.isthereanydeal.com/018d937f-5f14-7154-8307-8080dc914ffa/banner600.jpg?t=1774612222",
+      "leaving": "08 Aug 2026",
+      "source": "IsThereAnyDeal"
+    },
+    {
       "title": "Sin Slayers: Reign of The 8th",
       "platform": "GOG",
       "status": "claimable",
@@ -117,6 +126,15 @@
       "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
       "image": "https://assets.isthereanydeal.com/01987e67-c2d7-7154-9480-64934fbbefd6/banner600.jpg?t=1782134449",
       "leaving": "23 Sep 2026",
+      "source": "IsThereAnyDeal"
+    },
+    {
+      "title": "Still There",
+      "platform": "GOG",
+      "status": "claimable",
+      "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
+      "image": "https://assets.isthereanydeal.com/018d937f-2bc6-7172-a516-d9be0ceceaa8/banner600.jpg?t=1760983270",
+      "leaving": "12 Aug 2026",
       "source": "IsThereAnyDeal"
     },
     {
