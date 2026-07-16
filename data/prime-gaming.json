@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-16T13:13:57.834892+00:00",
-  "count": 17,
+  "updatedAt": "2026-07-16T18:53:04.981288+00:00",
+  "count": 20,
   "items": [
     {
       "title": "Between Time: Escape Room",
@@ -18,6 +18,24 @@
       "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
       "image": "https://assets.isthereanydeal.com/018d937f-6fbd-718b-b101-ea26b977017f/banner600.jpg?t=1760117129",
       "leaving": "01 Aug 2026",
+      "source": "IsThereAnyDeal"
+    },
+    {
+      "title": "Escape Academy",
+      "platform": "Epic",
+      "status": "claimable",
+      "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
+      "image": "https://assets.isthereanydeal.com/018d937f-60ca-735e-a2f5-6a896bc33776/banner600.jpg?t=1761587292",
+      "leaving": "19 Aug 2026",
+      "source": "IsThereAnyDeal"
+    },
+    {
+      "title": "FRAMED Collection",
+      "platform": "GOG",
+      "status": "claimable",
+      "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
+      "image": "https://assets.isthereanydeal.com/018d937e-ffb0-7284-9bab-052d9ca0296e/banner600.jpg?t=1761758719",
+      "leaving": "19 Aug 2026",
       "source": "IsThereAnyDeal"
     },
     {
@@ -54,6 +72,15 @@
       "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
       "image": "https://assets.isthereanydeal.com/018d937f-436e-7133-b8c8-c9d026a88621/banner600.jpg?t=1760380536",
       "leaving": "29 Jul 2026",
+      "source": "IsThereAnyDeal"
+    },
+    {
+      "title": "Poly Vita",
+      "platform": "Prime Gaming",
+      "status": "claimable",
+      "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
+      "image": "https://assets.isthereanydeal.com/018d937f-6b61-72c3-890f-593b4b6d74b0/banner600.jpg?t=1763160094",
+      "leaving": "19 Aug 2026",
       "source": "IsThereAnyDeal"
     },
     {
