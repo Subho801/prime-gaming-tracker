@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-23T13:19:38.703707+00:00",
-  "count": 16,
+  "updatedAt": "2026-07-23T18:56:28.905028+00:00",
+  "count": 18,
   "items": [
     {
       "title": "CyClones",
@@ -30,6 +30,15 @@
       "source": "IsThereAnyDeal"
     },
     {
+      "title": "In Sound Mind",
+      "platform": "Prime Gaming",
+      "status": "claimable",
+      "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
+      "image": "https://assets.isthereanydeal.com/018d937f-1aea-717e-a685-8a989b347cc9/banner600.jpg?t=1783682105",
+      "leaving": "23 Sep 2026",
+      "source": "IsThereAnyDeal"
+    },
+    {
       "title": "Lethal Honor - Order of the Apocalypse",
       "platform": "Epic",
       "status": "claimable",
@@ -54,6 +63,15 @@
       "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
       "image": "https://assets.isthereanydeal.com/018d937f-73a0-73da-842a-2fd317409329/banner600.jpg?t=1776705624",
       "leaving": "29 Jul 2026",
+      "source": "IsThereAnyDeal"
+    },
+    {
+      "title": "Mystic Academy: Escape Room",
+      "platform": "GOG",
+      "status": "claimable",
+      "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
+      "image": "https://assets.isthereanydeal.com/018d97b2-20ba-70fa-9955-c2a741d33b77/banner600.jpg?t=1769533520",
+      "leaving": "22 Aug 2026",
       "source": "IsThereAnyDeal"
     },
     {
