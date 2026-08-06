@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-06T13:29:34.301563+00:00",
-  "count": 15,
+  "updatedAt": "2026-08-06T23:46:33.283332+00:00",
+  "count": 17,
   "items": [
     {
       "title": "Escape Academy",
@@ -18,6 +18,15 @@
       "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
       "image": "https://assets.isthereanydeal.com/018d937e-ffb0-7284-9bab-052d9ca0296e/banner600.jpg?t=1761758719",
       "leaving": "19 Aug 2026",
+      "source": "IsThereAnyDeal"
+    },
+    {
+      "title": "Hiveswap Friendsim",
+      "platform": "GOG",
+      "status": "claimable",
+      "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
+      "image": "https://assets.isthereanydeal.com/018d937e-ea84-7048-9fa3-4e75cb895788/banner600.jpg?t=1762181410",
+      "leaving": "09 Sep 2026",
       "source": "IsThereAnyDeal"
     },
     {
@@ -63,6 +72,15 @@
       "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
       "image": "https://assets.isthereanydeal.com/018d937f-5f14-7154-8307-8080dc914ffa/banner600.jpg?t=1774612222",
       "leaving": "08 Aug 2026",
+      "source": "IsThereAnyDeal"
+    },
+    {
+      "title": "Right and Down",
+      "platform": "GOG",
+      "status": "claimable",
+      "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
+      "image": "https://assets.isthereanydeal.com/018d937f-6626-7128-bcec-540dbb9d3971/banner600.jpg?t=1761597359",
+      "leaving": "05 Sep 2026",
       "source": "IsThereAnyDeal"
     },
     {
