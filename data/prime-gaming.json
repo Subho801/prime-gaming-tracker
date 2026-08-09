@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-08T18:19:37.633368+00:00",
-  "count": 17,
+  "updatedAt": "2026-08-09T00:44:57.923588+00:00",
+  "count": 16,
   "items": [
     {
       "title": "Escape Academy",
@@ -66,15 +66,6 @@
       "source": "IsThereAnyDeal"
     },
     {
-      "title": "Regular Factory: Escape Room",
-      "platform": "GOG",
-      "status": "claimable",
-      "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
-      "image": "https://assets.isthereanydeal.com/018d937f-5f14-7154-8307-8080dc914ffa/banner600.jpg?t=1774612222",
-      "leaving": "08 Aug 2026",
-      "source": "IsThereAnyDeal"
-    },
-    {
       "title": "Right and Down",
       "platform": "GOG",
       "status": "claimable",
@@ -124,7 +115,7 @@
       "platform": "Prime Gaming",
       "status": "claimable",
       "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
-      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/800270/ea9d699ab99793a74027499e41e45d48e5967740/capsule_231x87.jpg?t=1769091240",
+      "image": "https://assets.isthereanydeal.com/018d937f-0141-739f-912e-5f4c53f09e5b/banner600.jpg?t=1786218091",
       "leaving": "26 Aug 2026",
       "source": "IsThereAnyDeal"
     },
