@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-08-13T12:40:13.857250+00:00",
-  "count": 14,
+  "updatedAt": "2026-08-13T18:44:52.907586+00:00",
+  "count": 17,
   "items": [
+    {
+      "title": "Airship: Kingdoms Adrift",
+      "platform": "Epic",
+      "status": "claimable",
+      "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
+      "image": "https://assets.isthereanydeal.com/018d937f-7477-700a-9e38-df7ec4e66cc1/banner600.jpg?t=1786570235",
+      "leaving": "16 Sep 2026",
+      "source": "IsThereAnyDeal"
+    },
     {
       "title": "Escape Academy",
       "platform": "Epic",
@@ -57,6 +66,15 @@
       "source": "IsThereAnyDeal"
     },
     {
+      "title": "Pyramids and Aliens: Escape Room",
+      "platform": "GOG",
+      "status": "claimable",
+      "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
+      "image": "https://assets.isthereanydeal.com/018dcb60-a8e6-72c9-8b34-e15e5368057e/banner600.jpg?t=1761067562",
+      "leaving": "16 Sep 2026",
+      "source": "IsThereAnyDeal"
+    },
+    {
       "title": "Right and Down",
       "platform": "GOG",
       "status": "claimable",
@@ -93,6 +111,15 @@
       "source": "IsThereAnyDeal"
     },
     {
+      "title": "Steelrising",
+      "platform": "Epic",
+      "status": "claimable",
+      "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
+      "image": "https://assets.isthereanydeal.com/018d937f-43fe-7178-bf53-1e8a94bfd751/banner600.jpg?t=1786209649",
+      "leaving": "16 Sep 2026",
+      "source": "IsThereAnyDeal"
+    },
+    {
       "title": "Terraforming Mars",
       "platform": "Prime Gaming",
       "status": "claimable",
@@ -115,7 +142,7 @@
       "platform": "GOG",
       "status": "claimable",
       "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
-      "image": "https://assets.isthereanydeal.com/018d937f-4090-736d-a19c-4e3e66f01698/banner600.jpg?t=1761585790",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/882100/capsule_231x87.jpg?t=1603903072",
       "leaving": "31 Aug 2026",
       "source": "IsThereAnyDeal"
     },
