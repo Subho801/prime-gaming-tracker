@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T12:21:39.566824+00:00",
+  "updatedAt": "2026-08-24T18:21:44.348021+00:00",
   "count": 14,
   "items": [
     {
@@ -34,7 +34,7 @@
       "platform": "GOG",
       "status": "claimable",
       "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
-      "image": "https://assets.isthereanydeal.com/018dcb60-a8e6-72c9-8b34-e15e5368057e/banner600.jpg?t=1761067562",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2833640/capsule_231x87.jpg?t=1733865975",
       "leaving": "16 Sep 2026",
       "source": "IsThereAnyDeal"
     },
@@ -43,7 +43,7 @@
       "platform": "GOG",
       "status": "claimable",
       "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
-      "image": "https://assets.isthereanydeal.com/018d937f-6626-7128-bcec-540dbb9d3971/banner600.jpg?t=1761597359",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2008050/capsule_231x87.jpg?t=1675260489",
       "leaving": "05 Sep 2026",
       "source": "IsThereAnyDeal"
     },
