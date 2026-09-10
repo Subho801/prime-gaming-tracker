@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-10T15:21:44.848339+00:00",
-  "count": 14,
+  "updatedAt": "2026-09-10T20:09:58.210308+00:00",
+  "count": 17,
   "items": [
     {
       "title": "Airship: Kingdoms Adrift",
@@ -12,12 +12,39 @@
       "source": "IsThereAnyDeal"
     },
     {
+      "title": "Botany Manor",
+      "platform": "Epic",
+      "status": "claimable",
+      "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
+      "image": "https://assets.isthereanydeal.com/018d937f-6ee7-7261-93d8-0a6c485a5515/banner600.jpg?t=1786554642",
+      "leaving": "14 Oct 2026",
+      "source": "IsThereAnyDeal"
+    },
+    {
       "title": "Clash: Artifacts of Chaos",
       "platform": "Epic",
       "status": "claimable",
       "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
       "image": "https://assets.isthereanydeal.com/018d937f-5256-73e1-bba6-66fd44ec8c88/banner600.jpg?t=1786226722",
       "leaving": "30 Sep 2026",
+      "source": "IsThereAnyDeal"
+    },
+    {
+      "title": "DOOM + DOOM II",
+      "platform": "GOG",
+      "status": "claimable",
+      "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
+      "image": "https://assets.isthereanydeal.com/019132ba-b52a-73d1-aedc-54adf3cd6f13/banner600.jpg?t=1786650348",
+      "leaving": "14 Oct 2026",
+      "source": "IsThereAnyDeal"
+    },
+    {
+      "title": "Drop Duchy",
+      "platform": "Epic",
+      "status": "claimable",
+      "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
+      "image": "https://assets.isthereanydeal.com/019092ec-6b7f-71c5-9ad8-8d2e87191665/banner600.jpg?t=1786566330",
+      "leaving": "14 Oct 2026",
       "source": "IsThereAnyDeal"
     },
     {
