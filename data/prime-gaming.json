@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T17:08:31.561907+00:00",
+  "updatedAt": "2026-09-14T21:07:10.193978+00:00",
   "count": 17,
   "items": [
     {
@@ -142,7 +142,7 @@
       "platform": "GOG",
       "status": "claimable",
       "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
-      "image": "https://assets.isthereanydeal.com/018d937f-1700-72ec-81d9-2a0232f26703/banner600.jpg?t=1766496917",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1072620/capsule_231x87.jpg?t=1766494298",
       "leaving": "28 Oct 2026",
       "source": "IsThereAnyDeal"
     },
