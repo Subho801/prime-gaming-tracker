@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-23T15:40:35.097585+00:00",
-  "count": 16,
+  "updatedAt": "2026-09-23T20:45:48.376156+00:00",
+  "count": 12,
   "items": [
     {
       "title": "Botany Manor",
@@ -25,7 +25,7 @@
       "platform": "GOG",
       "status": "claimable",
       "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
-      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2280/capsule_231x87.jpg?t=1790172760",
+      "image": "https://assets.isthereanydeal.com/019132ba-b52a-73d1-aedc-54adf3cd6f13/banner600.jpg?t=1790182811",
       "leaving": "14 Oct 2026",
       "source": "IsThereAnyDeal"
     },
@@ -57,15 +57,6 @@
       "source": "IsThereAnyDeal"
     },
     {
-      "title": "In Sound Mind",
-      "platform": "Prime Gaming",
-      "status": "claimable",
-      "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
-      "image": "https://assets.isthereanydeal.com/018d937f-1aea-717e-a685-8a989b347cc9/banner600.jpg?t=1788810316",
-      "leaving": "23 Sep 2026",
-      "source": "IsThereAnyDeal"
-    },
-    {
       "title": "Just Die Already",
       "platform": "Epic",
       "status": "claimable",
@@ -81,33 +72,6 @@
       "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
       "image": "https://assets.isthereanydeal.com/018d937f-4eef-73a5-aaed-0f8908352a55/banner600.jpg?t=1787462710",
       "leaving": "21 Oct 2026",
-      "source": "IsThereAnyDeal"
-    },
-    {
-      "title": "Royal Romances: Forbidden Magic Collector's Edition",
-      "platform": "Prime Gaming",
-      "status": "claimable",
-      "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
-      "image": "https://assets.isthereanydeal.com/018d937f-6bd2-725e-b6bc-42b7bdf3637c/banner600.jpg?t=1786668349",
-      "leaving": "23 Sep 2026",
-      "source": "IsThereAnyDeal"
-    },
-    {
-      "title": "Space Grunts: Chrono Shard",
-      "platform": "Epic",
-      "status": "claimable",
-      "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
-      "image": "https://assets.isthereanydeal.com/01987e67-c2d7-7154-9480-64934fbbefd6/banner600.jpg?t=1790174411",
-      "leaving": "23 Sep 2026",
-      "source": "IsThereAnyDeal"
-    },
-    {
-      "title": "Spray Paint Simulator",
-      "platform": "Prime Gaming",
-      "status": "claimable",
-      "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
-      "image": "https://assets.isthereanydeal.com/0191dc05-62c1-70d6-8f67-9e2ca40e270d/banner600.jpg?t=1787177134",
-      "leaving": "23 Sep 2026",
       "source": "IsThereAnyDeal"
     },
     {
