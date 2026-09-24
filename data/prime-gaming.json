@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-24T16:01:30.759745+00:00",
-  "count": 12,
+  "updatedAt": "2026-09-24T20:51:51.190601+00:00",
+  "count": 15,
   "items": [
     {
       "title": "Botany Manor",
@@ -57,6 +57,24 @@
       "source": "IsThereAnyDeal"
     },
     {
+      "title": "High On Life",
+      "platform": "Epic",
+      "status": "claimable",
+      "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
+      "image": "https://assets.isthereanydeal.com/018d937f-6449-7233-bfbc-a2e0c6d21bba/banner600.jpg?t=1787507710",
+      "leaving": "28 Oct 2026",
+      "source": "IsThereAnyDeal"
+    },
+    {
+      "title": "Hue",
+      "platform": "Epic",
+      "status": "claimable",
+      "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
+      "image": "https://assets.isthereanydeal.com/018d937f-0e07-713d-9b82-f0cbdcf0dce8/banner600.jpg?t=1786642285",
+      "leaving": "28 Oct 2026",
+      "source": "IsThereAnyDeal"
+    },
+    {
       "title": "Just Die Already",
       "platform": "Epic",
       "status": "claimable",
@@ -72,6 +90,15 @@
       "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
       "image": "https://assets.isthereanydeal.com/018d937f-4eef-73a5-aaed-0f8908352a55/banner600.jpg?t=1787462710",
       "leaving": "21 Oct 2026",
+      "source": "IsThereAnyDeal"
+    },
+    {
+      "title": "The Da Vinci Cryptex",
+      "platform": "Prime Gaming",
+      "status": "claimable",
+      "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
+      "image": "https://assets.isthereanydeal.com/018d937f-7826-7095-8235-7e301674b36d/banner600.jpg?t=1788244223",
+      "leaving": "28 Oct 2026",
       "source": "IsThereAnyDeal"
     },
     {
