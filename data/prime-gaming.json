@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-01T17:47:13.802873+00:00",
-  "count": 14,
+  "updatedAt": "2026-10-01T22:04:40.695318+00:00",
+  "count": 16,
   "items": [
     {
       "title": "Botany Manor",
@@ -9,6 +9,15 @@
       "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
       "image": "https://assets.isthereanydeal.com/018d937f-6ee7-7261-93d8-0a6c485a5515/banner600.jpg?t=1786554642",
       "leaving": "14 Oct 2026",
+      "source": "IsThereAnyDeal"
+    },
+    {
+      "title": "DOOM",
+      "platform": "GOG",
+      "status": "claimable",
+      "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
+      "image": "https://assets.isthereanydeal.com/018d937e-fce8-716b-97f3-6a41f82bb9e7/banner600.jpg?t=1786648864",
+      "leaving": "04 Nov 2026",
       "source": "IsThereAnyDeal"
     },
     {
@@ -36,6 +45,15 @@
       "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
       "image": "https://assets.isthereanydeal.com/019092ec-6b7f-71c5-9ad8-8d2e87191665/banner600.jpg?t=1789470014",
       "leaving": "14 Oct 2026",
+      "source": "IsThereAnyDeal"
+    },
+    {
+      "title": "Five Nights at Freddy's: Into the Pit",
+      "platform": "Epic",
+      "status": "claimable",
+      "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
+      "image": "https://assets.isthereanydeal.com/018feea7-df02-734d-ad6a-11ee8fe7f2b4/banner600.jpg?t=1790881032",
+      "leaving": "04 Nov 2026",
       "source": "IsThereAnyDeal"
     },
     {
