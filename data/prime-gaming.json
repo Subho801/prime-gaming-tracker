@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-10-15T15:52:10.215743+00:00",
-  "count": 13,
+  "updatedAt": "2026-10-15T20:37:18.307115+00:00",
+  "count": 15,
   "items": [
+    {
+      "title": "Caravan Sandwitch",
+      "platform": "Prime Gaming",
+      "status": "claimable",
+      "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
+      "image": "https://assets.isthereanydeal.com/018d937f-4d2c-73e0-8740-e9faf7d89fb0/banner600.jpg?t=1786987523",
+      "leaving": "16 Dec 2026",
+      "source": "IsThereAnyDeal"
+    },
     {
       "title": "Conarium",
       "platform": "GOG",
@@ -81,6 +90,15 @@
       "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
       "image": "https://assets.isthereanydeal.com/018d937f-7826-7095-8235-7e301674b36d/banner600.jpg?t=1788244223",
       "leaving": "28 Oct 2026",
+      "source": "IsThereAnyDeal"
+    },
+    {
+      "title": "Vampire: The Masquerade - Swansong",
+      "platform": "Epic",
+      "status": "claimable",
+      "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
+      "image": "https://assets.isthereanydeal.com/018d937f-47cc-7291-8feb-1d56b3f996d7/banner600.jpg?t=1786212320",
+      "leaving": "18 Nov 2026",
       "source": "IsThereAnyDeal"
     },
     {
