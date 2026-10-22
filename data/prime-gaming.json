@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-10-22T16:11:07.252799+00:00",
-  "count": 12,
+  "updatedAt": "2026-10-22T20:55:48.431775+00:00",
+  "count": 14,
   "items": [
+    {
+      "title": "Ad Infinitum",
+      "platform": "Epic",
+      "status": "claimable",
+      "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
+      "image": "https://assets.isthereanydeal.com/018d937f-5256-73e1-bba6-66fd45f1d52a/banner600.jpg?t=1787420472",
+      "leaving": "25 Nov 2026",
+      "source": "IsThereAnyDeal"
+    },
     {
       "title": "Caravan Sandwitch",
       "platform": "Prime Gaming",
@@ -72,6 +81,15 @@
       "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
       "image": "https://assets.isthereanydeal.com/018d937f-7826-7095-8235-7e301674b36d/banner600.jpg?t=1788244223",
       "leaving": "28 Oct 2026",
+      "source": "IsThereAnyDeal"
+    },
+    {
+      "title": "Time Travel: Escape Room Game",
+      "platform": "Prime Gaming",
+      "status": "claimable",
+      "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
+      "image": "https://assets.isthereanydeal.com/0190c9e8-9c07-73fd-a9ea-6770d5bdf9c8/banner600.jpg?t=1790946086",
+      "leaving": "25 Nov 2026",
       "source": "IsThereAnyDeal"
     },
     {
