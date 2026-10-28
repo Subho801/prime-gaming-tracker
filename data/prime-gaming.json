@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-28T17:30:51.356369+00:00",
-  "count": 14,
+  "updatedAt": "2026-10-28T21:57:31.431809+00:00",
+  "count": 8,
   "items": [
     {
       "title": "Ad Infinitum",
@@ -48,42 +48,6 @@
       "source": "IsThereAnyDeal"
     },
     {
-      "title": "Havendock",
-      "platform": "Prime Gaming",
-      "status": "claimable",
-      "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
-      "image": "https://assets.isthereanydeal.com/018d937f-5f5b-718e-9d2d-93d6f0d24385/banner600.jpg?t=1790085319",
-      "leaving": "28 Oct 2026",
-      "source": "IsThereAnyDeal"
-    },
-    {
-      "title": "High On Life",
-      "platform": "Epic",
-      "status": "claimable",
-      "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
-      "image": "https://assets.isthereanydeal.com/018d937f-6449-7233-bfbc-a2e0c6d21bba/banner600.jpg?t=1792681941",
-      "leaving": "28 Oct 2026",
-      "source": "IsThereAnyDeal"
-    },
-    {
-      "title": "Hue",
-      "platform": "Epic",
-      "status": "claimable",
-      "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
-      "image": "https://assets.isthereanydeal.com/018d937f-0e07-713d-9b82-f0cbdcf0dce8/banner600.jpg?t=1786642285",
-      "leaving": "28 Oct 2026",
-      "source": "IsThereAnyDeal"
-    },
-    {
-      "title": "The Da Vinci Cryptex",
-      "platform": "Prime Gaming",
-      "status": "claimable",
-      "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
-      "image": "https://assets.isthereanydeal.com/018d937f-7826-7095-8235-7e301674b36d/banner600.jpg?t=1792783512",
-      "leaving": "28 Oct 2026",
-      "source": "IsThereAnyDeal"
-    },
-    {
       "title": "Time Travel: Escape Room Game",
       "platform": "Prime Gaming",
       "status": "claimable",
@@ -108,24 +72,6 @@
       "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
       "image": "https://assets.isthereanydeal.com/018d937f-6fbd-718b-b101-ea26b95f6bca/banner600.jpg?t=1787767514",
       "leaving": "08 Jan 2027",
-      "source": "IsThereAnyDeal"
-    },
-    {
-      "title": "Weakless",
-      "platform": "GOG",
-      "status": "claimable",
-      "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
-      "image": "https://assets.isthereanydeal.com/018d937f-1700-72ec-81d9-2a0232f26703/banner600.jpg?t=1790845526",
-      "leaving": "28 Oct 2026",
-      "source": "IsThereAnyDeal"
-    },
-    {
-      "title": "Zoria: Age of Shattering",
-      "platform": "GOG",
-      "status": "claimable",
-      "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
-      "image": "https://assets.isthereanydeal.com/018d937f-3895-736d-b2bd-ff87024b19ed/banner600.jpg?t=1790845219",
-      "leaving": "28 Oct 2026",
       "source": "IsThereAnyDeal"
     }
   ]
