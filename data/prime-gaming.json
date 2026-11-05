@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-05T13:37:47.625690+00:00",
-  "count": 8,
+  "updatedAt": "2026-11-05T22:58:20.501967+00:00",
+  "count": 10,
   "items": [
     {
       "title": "Ad Infinitum",
@@ -39,6 +39,15 @@
       "source": "IsThereAnyDeal"
     },
     {
+      "title": "Squirrel with a Gun",
+      "platform": "Prime Gaming",
+      "status": "claimable",
+      "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
+      "image": "https://assets.isthereanydeal.com/018d937f-6ef4-71d9-84a6-4a1cee8cfafc/banner600.jpg?t=1788540628",
+      "leaving": "09 Dec 2026",
+      "source": "IsThereAnyDeal"
+    },
+    {
       "title": "Time Travel: Escape Room Game",
       "platform": "Prime Gaming",
       "status": "claimable",
@@ -72,6 +81,15 @@
       "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
       "image": "https://assets.isthereanydeal.com/018d937f-6fbd-718b-b101-ea26b95f6bca/banner600.jpg?t=1787767514",
       "leaving": "08 Jan 2027",
+      "source": "IsThereAnyDeal"
+    },
+    {
+      "title": "WRC Generations - The FIA WRC Official Game",
+      "platform": "Epic",
+      "status": "claimable",
+      "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
+      "image": "https://assets.isthereanydeal.com/018d937f-665c-7057-b28e-4d380926168a/banner600.jpg?t=1787419245",
+      "leaving": "09 Dec 2026",
       "source": "IsThereAnyDeal"
     }
   ]
