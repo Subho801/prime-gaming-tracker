@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-12T14:06:46.159248+00:00",
-  "count": 9,
+  "updatedAt": "2026-11-12T22:55:58.248381+00:00",
+  "count": 11,
   "items": [
     {
       "title": "Ad Infinitum",
@@ -21,12 +21,30 @@
       "source": "IsThereAnyDeal"
     },
     {
+      "title": "Jurassic World Evolution 2",
+      "platform": "Epic",
+      "status": "claimable",
+      "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
+      "image": "https://assets.isthereanydeal.com/018d937f-50e3-70a2-9dc0-91a22d1fe81f/banner600.jpg?t=1787087713",
+      "leaving": "16 Dec 2026",
+      "source": "IsThereAnyDeal"
+    },
+    {
       "title": "KIBORG",
       "platform": "Prime Gaming",
       "status": "claimable",
       "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
       "image": "https://assets.isthereanydeal.com/018d937f-7033-70fb-bce0-2c2e68c37f4b/banner600.jpg?t=1793487627",
       "leaving": "02 Dec 2026",
+      "source": "IsThereAnyDeal"
+    },
+    {
+      "title": "Radiolight",
+      "platform": "Epic",
+      "status": "claimable",
+      "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
+      "image": "https://assets.isthereanydeal.com/018d937f-4972-7180-aa89-f1a8affde1ac/banner600.jpg?t=1787001618",
+      "leaving": "16 Dec 2026",
       "source": "IsThereAnyDeal"
     },
     {
