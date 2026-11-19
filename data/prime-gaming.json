@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-19T14:48:58.394339+00:00",
-  "count": 10,
+  "updatedAt": "2026-11-19T23:58:20.301115+00:00",
+  "count": 12,
   "items": [
     {
       "title": "Ad Infinitum",
@@ -18,6 +18,15 @@
       "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
       "image": "https://assets.isthereanydeal.com/018d937f-4d2c-73e0-8740-e9faf7d89fb0/banner600.jpg?t=1786987523",
       "leaving": "16 Dec 2026",
+      "source": "IsThereAnyDeal"
+    },
+    {
+      "title": "CLeM",
+      "platform": "Epic",
+      "status": "claimable",
+      "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
+      "image": "https://assets.isthereanydeal.com/018d937f-6ef3-7304-b90f-6271ea964c7a/banner600.jpg?t=1792589129",
+      "leaving": "23 Dec 2026",
       "source": "IsThereAnyDeal"
     },
     {
@@ -81,6 +90,15 @@
       "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
       "image": "https://assets.isthereanydeal.com/018d937f-6fbd-718b-b101-ea26b95f6bca/banner600.jpg?t=1787767514",
       "leaving": "08 Jan 2027",
+      "source": "IsThereAnyDeal"
+    },
+    {
+      "title": "Werewolf: The Apocalypse - Earthblood",
+      "platform": "Epic",
+      "status": "claimable",
+      "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
+      "image": "https://assets.isthereanydeal.com/018d937f-47cc-7291-8feb-1d56aeb0894f/banner600.jpg?t=1786213525",
+      "leaving": "23 Dec 2026",
       "source": "IsThereAnyDeal"
     },
     {
