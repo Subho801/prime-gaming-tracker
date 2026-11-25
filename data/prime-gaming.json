@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-24T16:37:05.454464+00:00",
-  "count": 12,
+  "updatedAt": "2026-11-25T01:41:43.908479+00:00",
+  "count": 13,
   "items": [
     {
       "title": "Ad Infinitum",
@@ -9,6 +9,15 @@
       "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
       "image": "https://assets.isthereanydeal.com/018d937f-5256-73e1-bba6-66fd45f1d52a/banner600.jpg?t=1787420472",
       "leaving": "25 Nov 2026",
+      "source": "IsThereAnyDeal"
+    },
+    {
+      "title": "Arcadia Fallen",
+      "platform": "Prime Gaming",
+      "status": "claimable",
+      "url": "https://isthereanydeal.com/subscriptions/1-prime-gaming/",
+      "image": "https://assets.isthereanydeal.com/018d937f-3a49-7176-a573-3ec12ec20828/banner600.jpg?t=1787601061",
+      "leaving": "28 Dec 2026",
       "source": "IsThereAnyDeal"
     },
     {
